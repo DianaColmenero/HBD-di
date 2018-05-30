@@ -1,0 +1,18 @@
+div.input, .btn {
+  position: relative;
+  margin-top: 20px;
+}
+
+div.input input
+{
+  padding: 10px 20px;
+  font-size: 15px;
+  outline: 0;
+  border-radius: 0.5rem;
+}
+
+.form {
+  position: relative;
+  margin-left: 40%;
+  margin-top: 15%;
+}
